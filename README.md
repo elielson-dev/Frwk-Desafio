@@ -28,6 +28,7 @@ Para executar o ConsoleApp digite:
 	
 	
 Para executar a Api digite:	
+
 	- dotnet run --project .\Frwk.Api\Frwk.Api.csproj
 	
 	- Para acessar o swagger copie e cole no browser: http://localhost:5273/swagger/index.html
