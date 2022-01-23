@@ -10,8 +10,9 @@ Para clonar o repositório:
  - Abrir o Cmd em uma determinada pasta.
  - git clone https://github.com/elielson-dev/Frwk-Desafio.git
  
+Utilizar o Visual Studio ou o Vs Code.
 
-Executar no VS code.
+Para executar no VS code.
 
 Selecionar a pasta Frwk-Desafio, onde o repositorio foi clonado.
 	- Menu File - Open Folder
